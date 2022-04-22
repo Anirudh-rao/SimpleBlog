@@ -24,16 +24,26 @@ This Repository covers a Simple Django Micro Blog.
 ```django-admin.py ```is a script that will create the directories and files for you. You should now have a directory structure which looks like this:
 
 SimpleBlog
+
 ├── manage.py
+
 ├── mysite
-│   ├── asgi.py
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-├── myvenv
-│   └── ...
-└── requirements.txt
+
+  │   ├── asgi.py
+
+  │   ├── __init__.py
+
+  │   ├── settings.py
+
+  │   ├── urls.py
+
+  │   └── wsgi.py
+
+  ├── myvenv
+
+  │   └── ...
+
+    └── requirements.txt
 
 Note: in your directory structure, you will also see your myvenv directory that we created before.
 
